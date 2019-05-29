@@ -7,4 +7,5 @@ DISTFILES += \
     CMakeLists.txt \
     msg/AxisDelta.msg \
     msg/AxisState.msg \
-    package.xml
+    package.xml \
+    srv/SetAxisHome.srv

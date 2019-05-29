@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>messages_sensor</name>
+  <name>sensor_msgs_ext</name>
   <version>0.1.0</version>
-  <description>The messages_sensor package includes message definitions for various sensors that are not included in sensor_msgs.</description>
+  <description>The sensor_msgs_ext package includes message definitions for various sensors that are not included in sensor_msgs.</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag -->
   <!-- Example:  -->

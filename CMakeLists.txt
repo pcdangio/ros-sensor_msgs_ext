@@ -48,6 +48,7 @@ add_message_files(
   AxisState.msg
   AxisDelta.msg
   Proximity.msg
+  AnalogVoltage.msg
 )
 
 ## Generate services in the 'srv' folder

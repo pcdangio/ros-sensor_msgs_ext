@@ -47,6 +47,7 @@ add_message_files(
   FILES
   AxisState.msg
   AxisDelta.msg
+  Proximity.msg
 )
 
 ## Generate services in the 'srv' folder

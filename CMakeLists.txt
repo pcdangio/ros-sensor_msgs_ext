@@ -46,7 +46,6 @@ find_package(catkin REQUIRED message_generation std_msgs)
 add_message_files(
   FILES
   AxisState.msg
-  AxisDelta.msg
   Proximity.msg
   AnalogVoltage.msg
 )

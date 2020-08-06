@@ -9,11 +9,11 @@ uint8 TYPE_RTK_FLOAT = 5
 
 uint8 mode_selection                  # The selection type for the operating mode.
 uint8 MODE_SELECTION_MANUAL
-uint8 MODE_SELECTiON_AUTOMATIC
+uint8 MODE_SELECTION_AUTOMATIC
 
 uint8 mode                            # The current operating mode.
 uint8 MODE_NONE = 0
 uint8 MODE_2D = 1
 uint8 MODE_3D = 2
 
-uint8 n_satellites                     # The number of satellites used in the fix solution.
+uint8 satellite_count                 # The number of satellites used in the fix solution.

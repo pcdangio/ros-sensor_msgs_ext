@@ -10,6 +10,10 @@ add_message_files(
   axis_state.msg
   proximity.msg
   analog_voltage.msg
+  time_reference.msg
+  gnss_fix.msg
+  gnss_position.msg
+  gnss_track.msg
 )
 
 # Add service files.

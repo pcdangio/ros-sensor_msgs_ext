@@ -6,10 +6,11 @@ uint8 TYPE_FIX = 1
 uint8 TYPE_DIFFERENTIAL = 2
 uint8 TYPE_RTK_FIXED = 4
 uint8 TYPE_RTK_FLOAT = 5
+uint8 TYPE_DEAD_RECKONING = 6
 
 uint8 mode_selection                  # The selection type for the operating mode.
-uint8 MODE_SELECTION_MANUAL
-uint8 MODE_SELECTION_AUTOMATIC
+uint8 MODE_SELECTION_MANUAL = 0
+uint8 MODE_SELECTION_AUTOMATIC = 1
 
 uint8 mode                            # The current operating mode.
 uint8 MODE_NONE = 0

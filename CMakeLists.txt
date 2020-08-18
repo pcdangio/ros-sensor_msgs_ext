@@ -20,6 +20,7 @@ add_message_files(
 add_service_files(
   FILES
   set_axis_home.srv
+  get_proximity_configuration.srv
 )
 
 # Generate messages.

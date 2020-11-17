@@ -18,6 +18,7 @@ add_message_files(
   angular_velocity.msg
   magnetic_field.msg
   temperature.msg
+  covariance.msg
 )
 
 # Add service files.

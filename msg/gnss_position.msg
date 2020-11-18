@@ -5,6 +5,3 @@ bool fix_3d                 # Indicates if the fix is 3-dimensional (includes al
 float64 latitude            # Degrees latitude (positive = N, negative = S).
 float64 longitude           # Degrees longitude (positive = E, negative = W).
 float64 altitude            # Altitude above MSL [m]
-
-bool has_covariance         # Indicates if a covariance matrix is provided in this measurement.
-float64[9] covariance       # The covariance matrix of the measurement for lat,lon,alt.

@@ -24,6 +24,7 @@ add_message_files(
 # Add service files.
 add_service_files(
   FILES
+  calibrate_gyroscope.srv
   set_axis_home.srv
   get_proximity_configuration.srv
 )

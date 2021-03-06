@@ -14,8 +14,8 @@ add_message_files(
   gnss_fix.msg
   gnss_position.msg
   gnss_track.msg
-  acceleration.msg
-  angular_velocity.msg
+  accelerometer.msg
+  gyroscope.msg
   magnetic_field.msg
   temperature.msg
   covariance.msg

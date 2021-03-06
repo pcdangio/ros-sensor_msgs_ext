@@ -16,7 +16,7 @@ add_message_files(
   gnss_track.msg
   accelerometer.msg
   gyroscope.msg
-  magnetic_field.msg
+  magnetometer.msg
   temperature.msg
   covariance.msg
 )

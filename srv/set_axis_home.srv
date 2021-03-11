@@ -1,5 +1,3 @@
 # Sets the home position of the axis to it's current position.
 
 ---
-bool success        # Indicates if the home position was set successfully.
-string message      # Provides an error message if unsuccessful.
